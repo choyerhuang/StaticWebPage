@@ -27,7 +27,7 @@ This project is a static webpage I designed and developed as part of a web devel
 
 ## Screenshots
 
-| Hero Section | Gallery Section |
+| Header Section | Gallery Section |
 |--------------|------------------|
 | ![Header](images/header.png) | ![Gallery](images/content.png) |
 
@@ -44,3 +44,46 @@ This project is a static webpage I designed and developed as part of a web devel
     <li><a href="#about">About</a></li>
   </ul>
 </nav>
+
+```CSS
+/* Basic Reset and Typography */
+a {
+  text-decoration: none;
+  color: black;
+}
+
+html {
+  background-color: #FFFFFF;
+  font-family: sans-serif;
+}
+
+body {
+  width: 1239px;
+  margin: 0;
+  padding: 0;
+  min-height: 600px;
+}
+---
+
+## 📁 Project Structure (Shared)
+project/
+├── index.html
+├── styles.css
+├── images/
+│   ├── header.png
+│   ├── content.png
+│   ├── flower.png
+│   ├── flower2.png
+│   ├── image1.png
+│   ├── image2.png
+│   └── image3.png
+└── README.md
+
+📩 Contact
+
+If you’d like access to the full codebase (excluding currently enrolled students), please reach out:
+
+📧 ihanghua@usc.edu; scream831003@gmail.com
+
+🛡️ Disclaimer
+This work is shared for educational and professional demonstration purposes only. Unauthorized copying or redistribution by currently enrolled students is strictly prohibited.
