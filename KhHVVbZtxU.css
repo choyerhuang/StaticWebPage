@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+html {
+    background-color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+body {
+    width: 1239px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    min-height: 600px;
+}
+
+/*
+⚠️ Due to course policy and academic integrity guidelines, 
+the rest of the original CSS has been omitted.
+
+If you are interested in the full stylesheet, 
+please contact me directly (excluding currently enrolled students).
+Thank you for your understanding!
+*/
