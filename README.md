@@ -44,7 +44,7 @@ This project is a static webpage I designed and developed as part of a web devel
     <li><a href="#about">About</a></li>
   </ul>
 </nav>
-
+```
 ```CSS
 /* Basic Reset and Typography */
 a {
@@ -63,6 +63,7 @@ body {
   padding: 0;
   min-height: 600px;
 }
+```
 ---
 
 ## 📁 Project Structure (Shared)
@@ -79,11 +80,11 @@ project/
 │   └── image3.png
 └── README.md
 
-📩 Contact
+## 📩 Contact
 
 If you’d like access to the full codebase (excluding currently enrolled students), please reach out:
 
 📧 ihanghua@usc.edu; scream831003@gmail.com
 
-🛡️ Disclaimer
+## 🛡️ Disclaimer
 This work is shared for educational and professional demonstration purposes only. Unauthorized copying or redistribution by currently enrolled students is strictly prohibited.
