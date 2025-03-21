@@ -1,6 +1,6 @@
 # Static Web Design Project – Course Assignment #1
 
-This project is a static webpage I designed and developed as part of a web development course. It demonstrates my skills in responsive layout, UI design, and front-end development using HTML and CSS.
+This project is a static webpage I designed and developed as part of a web development course (CSCI-571@USC). It demonstrates my skills in responsive layout, UI design, and front-end development using HTML and CSS.
 
 > **Note**: In compliance with course regulations and academic integrity policies, only partial code and assets are included. Please contact me directly if you'd like to review the full implementation (not available to current students enrolled in the course).
 
@@ -30,6 +30,14 @@ This project is a static webpage I designed and developed as part of a web devel
 | Header Section | Gallery Section |
 |--------------|------------------|
 | ![Header](images/header.png) | ![Gallery](images/content.png) |
+
+---
+
+## 🎥 Demo Video
+
+Click below to watch the walkthrough of the web project:
+
+[![Watch the demo](https://img.youtube.com/vi/RTuIRVHabUY/0.jpg)](https://youtu.be/RTuIRVHabUY)
 
 ---
 
