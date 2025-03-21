@@ -67,6 +67,7 @@ body {
 ---
 
 ## 📁 Project Structure (Shared)
+```Csharp
 project/
 ├── index.html
 ├── styles.css
@@ -79,6 +80,7 @@ project/
 │   ├── image2.png
 │   └── image3.png
 └── README.md
+```
 
 ## 📩 Contact
 
